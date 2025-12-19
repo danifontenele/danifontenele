@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**danifontenele/danifontenele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel a  42 Lisbon student exploring the Common Core.
 
-Here are some ideas to get you started:
+The 42 method helped me to improve solving-problem skill autonomy and discipline.
+I'm currently exploring different areas of software development while building a solid foundation in C and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core skills:
+- C language programming
+- Algorythms and data structures
+- Unix/Linux environment
+- Git and GitHub
+- Memory management.
+
+Tools & environment:
+- Vim and VSC
+- Git
+- Makefile
+
+I'm currently discovering which areas of software development ressonate more with me, while focusing in building strong fundamentals.
+
+I value deep understanding, clean code and continuous improvement over rushing to specific languages or technologies.
