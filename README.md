@@ -7,7 +7,7 @@ I'm currently exploring different areas of software development while building a
 
 Core skills:
 - C language programming
-- Algorythms and data structures
+- Algorithms and data structures
 - Unix/Linux environment
 - Git and GitHub
 - Memory management.
