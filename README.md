@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-I'm Daniel a  42 Lisbon student exploring the Common Core.
+I'm Daniel a software engineering student at 42 Lisbon.
 
-The 42 method helped me to improve solving-problem skill autonomy and discipline.
-I'm currently exploring different areas of software development while building a solid foundation in C and computer science.
+The 42 method is problem-solving skill-based, with focus on hands-on projects and peer-to-peer learning.
+I'm currently exploring different areas of software development while building a solid foundation in C, python and computer science.
 
-Core skills:
+### Core skills:
 - C language programming
+- Python (Object-Oriented Programming)
 - Algorithms and data structures
 - Unix/Linux environment
 - Git and GitHub
-- Memory management.
 
-Tools & environment:
-- Vim and VSC
+### Tools & environment:
+- Vim and Visual Studio Code
 - Git
 - Makefile
 
