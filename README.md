@@ -2,7 +2,7 @@
 
 I'm Daniel, a curious software engineering student at 42 Lisbon with a strong interest in building reliable systems and meaningful products.
 
-The 42 method is problem-solving skill-based, with a focus on hands-on projects and peer-to-peer learning. Through this approach I'm building a solid foundation in C and Python while learning how to think critically and collaborate with peers.
+The 42 method is problem-solving skill-based, with a focus on hands-on projects and peer-to-peer learning. Through this approach I'm building a solid base in C and Python while learning how to think critically and collaborate with peers.
 
 ### Core skills:
 - C language programming
