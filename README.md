@@ -1,17 +1,15 @@
 ## Hi there 👋
-
+### About me
 I'm Daniel, a curious software engineering student at 42 Lisbon with a strong interest in building reliable systems and meaningful products.
 
 The 42 method is problem-solving skill-based, with a focus on hands-on projects and peer-to-peer learning. Through this approach I'm building a solid base in C and Python while learning how to think critically and collaborate with peers.
-### Core skills:
----
+### Core skills
 - C language programming
 - Python (Object-Oriented Programming)
 - Algorithms and data structures
-- Unix/Linux environment
 - Git and GitHub
-### Tools & environment:
----
+### Tools & environment
+- Unix/Linux environment
 - Vim and Visual Studio Code
 - Git
 - Makefile
